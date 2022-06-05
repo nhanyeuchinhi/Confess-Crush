@@ -6,7 +6,7 @@ const CONFIG = {
     lạc vào tim hai lẻ loi
     đằng sau chữ yêu đây là thươngg`,
     btnIntro: 'Ấn Đây Nè haii',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    title: 'Phải chăng em đã yêu hai từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Thích Lắm :>',
     btnNo: 'Không nha :<',
