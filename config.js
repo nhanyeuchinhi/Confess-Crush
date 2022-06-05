@@ -2,9 +2,9 @@ const CONFIG = {
     titleWeb: "Website Được Lập Ra Và Phát Triển Bởi Lê Ngọc Nhân",
     introTitle: 'Ng Hoàng Gia Nhi - Hai :3',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim hai lẻ loi
-    Đằng sau chữ yêu đây là thươngg`,
+    mà sao em cứ đi nhầm đường
+    lạc vào tim hai lẻ loi
+    đằng sau chữ yêu đây là thươngg`,
     btnIntro: 'Ấn Đây Nè haii',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
